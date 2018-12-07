@@ -1,0 +1,30 @@
+
+.lorem {
+    text-align: center;
+    padding: 10% 30% 0% 30%;
+    font-size: 30px;
+}
+.menu-RJ {
+    float: right;
+
+}
+ .jumbotron{
+     background: red;
+ }
+
+ #body{
+     background: darkred;
+ }
+ .pink-btn {
+     background: pink;
+ }
+ .lorem{
+     color: darkblue;
+ }
+
+ .kda{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+ }
